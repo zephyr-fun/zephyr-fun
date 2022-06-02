@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&lines=zephyr-fun+says+hi+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&lines=zephyr-fun+says+hi)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zephyr-fun)](https://github.com/anuraghazra/github-readme-stats)
 <!--
